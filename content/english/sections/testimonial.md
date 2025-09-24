@@ -3,22 +3,17 @@ enable: true
 title: "Voices of Tea: Wisdom in Every Cup"
 description: "Tea is more than a beverage; it's a culture, a philosophy, and a source of inspiration. Here are some timeless words about the art of tea from writers, thinkers, and masters."
 
-# Testimonials are repurposed as Quotes about Tea
+# Testimonials are repurposed as Quotes about Tea, now with similar lengths for balanced design.
 testimonials:
-  - name: "Lu Yu (陆羽)"
-    designation: "The Sage of Tea, Tang Dynasty"
+  - name: "Thich Nhat Hanh"
+    designation: "Zen Master & Peace Activist"
     avatar: "/images/avatar-sm.png"
-    content: "Tea tempers the spirits and harmonizes the mind, dispels lassitude and relieves fatigue, awakens thought and prevents drowsiness."
+    content: "Drink your tea slowly and reverently, as if it is the axis on which the world earth revolves – slowly, evenly, without rushing toward the future."
 
-  - name: "Okakura Kakuzō"
-    designation: "Author of 'The Book of Tea'"
+  - name: "Bernard-Paul Heroux"
+    designation: "Author of 'The Conquest of Gaul'"
     avatar: "/images/avatar-sm.png"
-    content: "Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements."
-
-  - name: "Arthur Wing Pinero"
-    designation: "English Dramatist"
-    avatar: "/images/avatar-sm.png"
-    content: "Where there's tea, there is hope."
+    content: "There is something in the nature of tea that leads us into a world of quiet contemplation of life."
 
   - name: "Chinese Proverb"
     designation: "Ancient Saying"
