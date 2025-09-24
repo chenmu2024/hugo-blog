@@ -1,29 +1,29 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Voices of Tea: Wisdom in Every Cup"
+description: "Tea is more than a beverage; it's a culture, a philosophy, and a source of inspiration. Here are some timeless words about the art of tea from writers, thinkers, and masters."
 
-# Testimonials
+# Testimonials are repurposed as Quotes about Tea
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Lu Yu (陆羽)"
+    designation: "The Sage of Tea, Tang Dynasty"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Tea tempers the spirits and harmonizes the mind, dispels lassitude and relieves fatigue, awakens thought and prevents drowsiness."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Okakura Kakuzō"
+    designation: "Author of 'The Book of Tea'"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Arthur Wing Pinero"
+    designation: "English Dramatist"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Where there's tea, there is hope."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Chinese Proverb"
+    designation: "Ancient Saying"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Better to be deprived of food for three days, than tea for one."
 
 # don't create a separate page
 build:
