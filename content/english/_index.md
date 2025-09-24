@@ -1,53 +1,54 @@
 ---
-# Banner
+# Banner Section (Top section of the homepage)
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Discover the Rich World of Chinese Tea"
+  content: "From the fresh notes of Green Tea to the deep complexity of Puerh, Category of Tea is your ultimate guide to the fascinating origins, categories, and culture behind every leaf."
+  image: "/images/banner-tea.png" # Suggestion: Find a beautiful, wide photo of a tea plantation or a tea ceremony.
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Explore Tea Categories"
+    link: "/blog" # This link will take users to your main blog/article list page.
 
-# Features
+# Features Section (The sections below the banner)
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "The Six Pillars of Chinese Tea"
+    image: "/images/six-categories-of-tea.png" # A graphic showing six different tea colors.
+    content: "Chinese tea is traditionally classified into six main categories based on its processing method. Each category offers a unique spectrum of flavors, aromas, and stories."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Green Tea (绿茶): Unoxidized and fresh, capturing the essence of spring."
+      - "White Tea (白茶): Lightly processed, known for its delicate and sweet notes."
+      - "Oolong Tea (乌龙茶): Partially oxidized, offering a wide range of complex flavors."
+      - "Black Tea (红茶): Fully oxidized, resulting in robust, malty, and sweet profiles."
+      - "Dark Tea (黑茶): Post-fermented, famous for its earthy, smooth, and aged character."
+      - "Yellow Tea (黄茶): A rare category with a gentle and mellow taste."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Explore All Categories"
+      link: "/categories" # Links to the page listing all categories.
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Journey Through Iconic Teas"
+    image: "/images/iconic-teas.png" # An elegant image collage of different tea leaves or cups.
+    content: "Within each category lie legendary teas, each with its own unique history, terroir, and flavor profile. Let's delve into some of the most celebrated examples."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**Longjing (Dragon Well):** The king of Green Teas, famous for its nutty aroma and smooth, mellow taste."
+      - "**Tie Guan Yin (Iron Goddess):** A legendary Oolong with a captivating floral fragrance and creamy texture."
+      - "**Jin Jun Mei (Golden Eyebrows):** A premium Black Tea known for its sweet, honey-like flavor and beautiful golden tips."
+      - "**Shou Puerh:** An aged Dark Tea from Yunnan, prized for its deep, earthy character and digestive benefits."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Read Our Tea Guides"
+      link: "/blog" # Links to the main blog page to discover more articles.
+
+  - title: "Why Trust Category of Tea?"
+    image: "/images/about-us-tea-journey.png" # A welcoming image.
+    content: "Our mission is simple: to be the most reliable, accessible, and inspiring resource for Chinese tea enthusiasts. We are dedicated to providing clear, accurate, and passion-driven content."
+    bulletpoints:
+      - "Unbiased reviews and in-depth guides."
+      - "Focus on the history and culture behind the tea."
+      - "A commitment to demystifying complex tea knowledge."
+      - "Written by and for people who love tea."
+    button:
+      enable: true
+      label: "Learn More About Us"
+      link: "/about" # Links to your 'About Us' page.
 ---
