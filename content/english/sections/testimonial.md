@@ -9,11 +9,11 @@ testimonials:
     designation: "The Sage of Tea, Tang Dynasty"
     avatar: "/images/avatar-sm.png"
     content: "The first cup moistens my lips and throat. The second shatters my loneliness."
-
-  - name: "Okakura Kakuzō"
-    designation: "Author of 'The Book of Tea'"
+    
+  - name: "Bernard-Paul Heroux"
+    designation: "Author of 'The Conquest of Gaul'"
     avatar: "/images/avatar-sm.png"
-    content: "The spirit of the tea beverage is one of peace, comfort, and refinement."
+    content: "There is something in the nature of tea that leads us into a world of quiet contemplation of life."
 
   - name: "Chinese Proverb"
     designation: "Ancient Saying"
