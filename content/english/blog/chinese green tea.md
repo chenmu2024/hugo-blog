@@ -74,7 +74,7 @@ Perhaps the most visually striking Chinese green tea, Taiping Houkui features ex
 
 The tea's distinctive appearance comes from a specialized pressing technique where leaves are sandwiched between cloth-covered boards and pressed flat while still warm from the kill-green process. This creates the characteristic network pattern visible on the leaf surface and helps concentrate flavors within the leaf structure.
 
-Taiping Houkui produces a light, refreshing brew with subtle orchid-like fragrance and a clean, sweet finish. The [Chinese Tea Marketing Association](http://www.ctma.com.cn/) recognizes authentic Taiping Houkui as a protected designation of origin product, with specific requirements for growing region, processing methods, and leaf appearance.
+Taiping Houkui produces a light, refreshing brew with subtle orchid-like fragrance and a clean, sweet finish. The Chinese Tea Marketing Association recognizes authentic Taiping Houkui as a protected designation of origin product, with specific requirements for growing region, processing methods, and leaf appearance.
 
 ## Health Benefits and Scientific Research
 
@@ -142,7 +142,7 @@ In traditional Chinese medicine, green tea is classified as having "cooling" pro
 
 ### Contemporary Global Influence
 
-Today, Chinese green tea culture is experiencing a global renaissance, with tea houses and specialty retailers worldwide showcasing authentic Chinese varieties. The [International Tea Committee](https://www.internationalteacommittee.org/) reports that global green tea consumption has increased by 35% over the past decade, driven largely by growing awareness of health benefits and cultural appreciation.
+Today, Chinese green tea culture is experiencing a global renaissance, with tea houses and specialty retailers worldwide showcasing authentic Chinese varieties. The International Tea Committee reports that global green tea consumption has increased by 35% over the past decade, driven largely by growing awareness of health benefits and cultural appreciation.
 
 Social media platforms have accelerated this trend, with tea enthusiasts sharing brewing techniques, tasting notes, and cultural insights across international boundaries. Chinese tea producers are adapting to global markets while maintaining traditional quality standards, creating new opportunities for cultural exchange through tea.
 
@@ -160,7 +160,7 @@ The concept of terroir – how environmental factors influence tea character –
 
 Zhejiang, home to Longjing and other premium green teas, benefits from a subtropical climate with abundant rainfall and misty conditions ideal for tea cultivation. The province's hills and mountains create microclimates that produce teas with exceptional complexity and refinement.
 
-Research by the [Zhejiang Academy of Agricultural Sciences](http://www.zaas.ac.cn/en/) has identified specific soil minerals that contribute to Zhejiang teas' characteristic sweetness and delicate flavors. The region's limestone-rich soils provide optimal pH conditions for tea cultivation while contributing subtle mineral notes to the finished tea.
+Research by the Zhejiang Academy of Agricultural Sciences has identified specific soil minerals that contribute to Zhejiang teas' characteristic sweetness and delicate flavors. The region's limestone-rich soils provide optimal pH conditions for tea cultivation while contributing subtle mineral notes to the finished tea.
 
 ### Fujian Province
 
