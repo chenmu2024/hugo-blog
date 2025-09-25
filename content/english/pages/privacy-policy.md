@@ -7,7 +7,7 @@ description: "Read the Privacy Policy for Category of Tea. We explain what data 
 
 Welcome to Category of Tea. Your privacy is critically important to us. This Privacy Policy document outlines the types of information that is collected and recorded by Category of Tea and how we use it.
 
-This policy applies to our website, accessible from **https://www.categoryoftea.org** ("the Site").
+This policy applies to our website, accessible from **https://categoryoftea.org** ("the Site").
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
