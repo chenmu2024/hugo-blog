@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Copyright © {2025} Category of Tea. All Rights Reserved."
+copyright = "Copyright © {year} Category of Tea. All Rights Reserved." # Corrected to use Hugo's dynamic year variable
 
 # Preloader
 [preloader]
@@ -59,7 +59,7 @@ content = "Welcome to our new website! Explore the fascinating world of Chinese 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["category of tea", "chinese tea", "green tea", "black tea", "oolong tea", "tea guide"]
-description = "Discover the rich world of Chinese tea. We explore the six main categories: Green, Black, White, Yellow, Oolong, and Dark Tea. Your expert guide to tea origins, processing, and tasting notes."
+description = "Explore the six main categories of Chinese tea, from Green and Oolong to Puerh. Your expert guide to tea origins, brewing techniques, and rich cultural history."
 author = "Category of Tea"
 twitter = "" # Add your Twitter handle here, e.g., "@YourTeaProfile"
 image = "images/og-image.png" # A default social sharing image (1200x630px recommended)
@@ -98,7 +98,7 @@ map_longitude = ""
 map_marker = "images/marker.png"
 
 
-# Subscription (e.g., Mailchimp)
+# Subscription (e.g., Mailchlogimp)
 [subscription]
 enable = false # Enable this when you have a newsletter service
 # mailchimp subsciption
