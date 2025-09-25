@@ -4,6 +4,8 @@ meta_title: "Chinese Green Tea Guide: Origins, Types & Health Benefits | Categor
 description: "Discover the fascinating world of Chinese green tea - from ancient origins to modern varieties. Learn about processing methods, health benefits, and brewing techniques in this comprehensive guide."
 date: 2025-09-25T08:00:00Z
 image: "/images/green-tea.png"
+width: 1200
+height: 630
 categories: ["Green Tea", "Chinese Tea", "Tea Culture"]
 author: "Tea Expert"
 tags: ["green tea", "chinese tea", "tea history", "longjing", "biluochun", "tea health benefits"]
