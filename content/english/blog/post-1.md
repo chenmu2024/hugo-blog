@@ -2,7 +2,7 @@
 title: "The Complete Guide to Chinese Tea Classification and Origins: From Ancient Legends to Modern Categories"
 meta_title: "Chinese Tea Classification and Origins - Complete Guide to 6 Types"
 description: "Discover the fascinating origins and classification of Chinese tea. Learn about the 6 main categories, from white to black tea, and explore 4,000 years of tea history from Emperor Shen Nong to modern times."
-date: 2024-09-25T05:00:00Z
+date: 2025-09-25T05:00:00Z
 image: "/images/chinese-tea-classification.png"
 categories: ["Tea History", "Tea Types"]
 author: "Tea Expert"
