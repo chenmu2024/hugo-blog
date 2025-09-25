@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 # 网站的根URL (必需). 所有相对链接都会基于此地址.
 # !!! 重要: 绑定自定义域名后，必须将这里修改为 "https://www.categoryoftea.org/"
-baseURL = "https://www.categoryoftea.org/"
+baseURL = "https://categoryoftea.org/"
 
 # 网站标题 (必需). 这是SEO的核心.
 title = "Category of Tea | Your Ultimate Guide to Chinese Tea Varieties"
