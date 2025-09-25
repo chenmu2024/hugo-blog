@@ -1,8 +1,8 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: Chinese Tea
+email: info@categoryoftea.org
 image: "/images/avatar.png"
-description: this is meta description
+description: Welcome to Category of Tea! I am the founder and lead author of this site. With over a decade of experience in exploring and studying Chinese tea, my mission is to share this passion and make the world of tea accessible to everyone.
 social:
   - name: github
     icon: fa-brands fa-github
