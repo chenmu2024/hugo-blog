@@ -188,7 +188,7 @@ However, it's important to note that while research into tea's health benefits c
 
 Chinese tea classification extends beyond mere botanical and processing categories to encompass deep cultural and philosophical meanings. The preparation and consumption of different tea categories follow specific rituals and traditions that reflect Chinese values of harmony, respect, and mindfulness.
 
-The [traditional Chinese tea ceremony](https://www.teasenz.com/chinese-tea/chinese-tea-ceremony) emphasizes the appreciation of tea's sensory qualities—appearance, aroma, and taste—while creating a meditative experience that connects participants with nature and each other. Different tea categories require specific brewing techniques, water temperatures, and timing to achieve optimal results.
+The [traditional Chinese tea ceremony](https://www.teasenz.com/chinese-tea/) emphasizes the appreciation of tea's sensory qualities—appearance, aroma, and taste—while creating a meditative experience that connects participants with nature and each other. Different tea categories require specific brewing techniques, water temperatures, and timing to achieve optimal results.
 
 **Gongfu Cha:** This traditional brewing method uses small teapots and multiple short infusions to fully explore a tea's changing characteristics over successive brewings. Oolong and Pu-erh teas are particularly well-suited to this approach.
 
@@ -200,7 +200,7 @@ The Chinese tea classification system has profoundly influenced tea culture worl
 
 However, [modern tea classification](https://categoryoftea.org/) has evolved to accommodate teas from different regions while maintaining the core principles established in Chinese tea culture. The influence of Chinese tea extends far beyond classification systems to encompass brewing techniques, quality assessment methods, and the philosophical approach to tea appreciation.
 
-The [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) and maritime trade routes carried not just tea leaves but also the knowledge and culture surrounding tea production and consumption. This cultural transmission explains why tea ceremonies in Japan, Korea, and other Asian countries share fundamental similarities with Chinese practices while developing unique regional characteristics.
+The Silk Road and maritime trade routes carried not just tea leaves but also the knowledge and culture surrounding tea production and consumption. This cultural transmission explains why tea ceremonies in Japan, Korea, and other Asian countries share fundamental similarities with Chinese practices while developing unique regional characteristics.
 
 ## Conclusion: The Living Heritage of Chinese Tea
 
@@ -219,7 +219,5 @@ The next time you hold a cup of Chinese tea, whether it's a delicate Silver Need
 ---
 
 *Sources and Further Reading:*
-- [International Tea Committee - Tea Classification Standards](https://www.tea.org/)
-- [Chinese Tea Marketing Association](https://www.ctma.com.cn/)
 - [World Tea Academy - Tea Processing Methods](https://worldteaacademy.com/)
-- [Journal of Tea Research - Scientific Studies on Tea Processing](https://teajournal.org/)
+- [traditional Chinese tea ceremony](https://www.teasenz.com/)
