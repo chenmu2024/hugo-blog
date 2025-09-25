@@ -2,7 +2,7 @@
 title: "Chinese Green Tea: A Complete Guide to Origins, Varieties, and Cultural Significance"
 meta_title: "Chinese Green Tea Guide: Origins, Types & Health Benefits | Category of Tea"
 description: "Discover the fascinating world of Chinese green tea - from ancient origins to modern varieties. Learn about processing methods, health benefits, and brewing techniques in this comprehensive guide."
-date: 2025-09-26T10:00:00Z
+date: 2025-09-25T10:00:00Z
 image: "/images/chinese-green-tea-guide.png"
 categories: ["Green Tea", "Chinese Tea", "Tea Culture"]
 author: "Tea Expert"
