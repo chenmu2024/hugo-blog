@@ -1,3 +1,10 @@
+{{- /* =================================================================
+      FORCE-ADD CANONICAL URL TO FIX SEO ISSUE
+      ================================================================= */}}
+{{- with .Permalink -}}
+  <link rel="canonical" href="{{ . }}" />
+{{- end -}}
+
 <meta charset="utf-8" />
 
 <!-- responsive meta -->
