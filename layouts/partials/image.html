@@ -1,5 +1,6 @@
 {{/*
-  这是一个简化的、更健壮的 image.html 版本，用于调试。
+  这是 image.html 的最终修复版本。
+  它会主动从页面的 Front Matter (.Params) 读取 width 和 height。
 */}}
 {{ $src := .Src }}
 {{ $page := .Context }}
@@ -23,13 +24,16 @@
 
 {{/* 如果成功找到了图片资源 */}}
 {{ if $image }}
-  {{/* 从Front Matter获取尺寸，如果未提供，则使用图片的原始尺寸 */}}
-  {{ $width := .Width | default $image.Width }}
-  {{ $height := .Height | default $image.Height }}
+  {{/* 
+    关键修复：不再依赖 .Width，而是直接从页面的 Front Matter ($page.Params) 读取。
+    如果 Front Matter 中没有，则回退到图片的原始尺寸。
+  */}}
+  {{ $width := $page.Params.width | default $image.Width }}
+  {{ $height := $page.Params.height | default $image.Height }}
 
-  {{/* 检查尺寸是否有效，防止Resize出错 */}}
+  {{/* 检查尺寸是否有效 */}}
   {{ if or (not (gt $width 0)) (not (gt $height 0)) }}
-    {{ errorf "Image partial: Invalid width or height for image '%s' on page '%s'. Width and Height must be provided in Front Matter and be greater than 0." $src $page.File.Path }}
+    {{ errorf "Image partial: Final check failed for image '%s' on page '%s'. Ensure 'width' and 'height' are set in the Front Matter and are greater than 0." $src $page.File.Path }}
   {{ end }}
 
   {{/* 调整图片尺寸 */}}
@@ -45,5 +49,5 @@
 
 {{ else if $src }}
   {{/* 如果提供了src但找不到图片，就报错 */}}
-  {{ errorf "Image partial: Image '%s' not found for page '%s'. Make sure it exists in /assets/%s or alongside the content file." $src $page.File.Path $src }}
+  {{ errorf "Image partial: Image '%s' not found for page '%s'. Make sure it exists in /assets/ or alongside the content file, and the path in Front Matter has NO leading slash." $src $page.File.Path }}
 {{ end }}
