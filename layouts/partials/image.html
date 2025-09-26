@@ -1,82 +1,49 @@
 {{/*
-  这个文件是 hugoplate 主题 image.html partial 的一个智能覆盖版本。
-  它能自动判断图片是来自 /assets 目录的全局资源，还是与文章在一起的页面资源。
+  这是一个简化的、更健壮的 image.html 版本，用于调试。
 */}}
 {{ $src := .Src }}
-{{ $context := .Context }}
-{{ $alt := .Alt }}
-{{ $class := .Class }}
-{{ $width := .Width | default "" }}
-{{ $height := .Height | default "" }}
-{{ $loading := .Loading | default "lazy" }}
+{{ $page := .Context }}
+{{ $alt := .Alt | default $page.Title }}
 
 {{ $image := "" }}
-{{ $image_fallback := "" }}
 
-{{/* 检查图片资源是否存在 */}}
+{{/* 检查 $src 是否被定义 */}}
 {{ if $src }}
-  {{/* 首先，尝试将其作为页面资源（与 .md 文件在同一个文件夹）来查找 */}}
-  {{ $page_resource := $context.Resources.GetMatch $src }}
-
-  {{ if $page_resource }}
-    {{ $image = $page_resource }}
+  {{/* 首先，尝试作为页面资源（与md文件在同一目录）查找 */}}
+  {{ with $page.Resources.GetMatch $src }}
+    {{ $image = . }}
   {{ else }}
-    {{/* 如果不是页面资源，就尝试将其作为全局资源（在 /assets 目录）来查找 */}}
-    {{ $global_resource := resources.Get $src }}
-    {{ if $global_resource }}
-      {{ $image = $global_resource }}
-    {{ else }}
-      {{/* 如果两处都找不到，就打印错误信息 */}}
-      {{ errorf "Image not found: src %s in page %s" $src $context.File.Path }}
+    {{/* 如果找不到，就去 /assets 目录里查找全局资源 */}}
+    {{ with resources.Get $src }}
+      {{ $image = . }}
     {{ end }}
   {{ end }}
 {{ end }}
 
 
+{{/* 如果成功找到了图片资源 */}}
 {{ if $image }}
-  {{/* 获取图片的原始宽度和高度 */}}
-  {{ $original_width := $image.Width }}
-  {{ $original_height := "auto" }}
-  {{ if $image.Height }}
-    {{ $original_height = $image.Height }}
+  {{/* 从Front Matter获取尺寸，如果未提供，则使用图片的原始尺寸 */}}
+  {{ $width := .Width | default $image.Width }}
+  {{ $height := .Height | default $image.Height }}
+
+  {{/* 检查尺寸是否有效，防止Resize出错 */}}
+  {{ if or (not (gt $width 0)) (not (gt $height 0)) }}
+    {{ errorf "Image partial: Invalid width or height for image '%s' on page '%s'. Width and Height must be provided in Front Matter and be greater than 0." $src $page.File.Path }}
   {{ end }}
 
-  {{/* 如果 Front Matter 提供了 width 或 height，就用它，否则用图片的原始尺寸 */}}
-  {{ $width = $width | default $original_width }}
-  {{ $height = $height | default $original_height }}
-  
-  {{/* 定义要生成的图片尺寸，可以根据需要修改 */}}
-  {{ $sizes := slice "320" "640" "768" "1024" "1280" "1536" }}
-  {{ $processable := and (not (in (slice ".svg" ".gif") $image.MediaType.Suffix)) (eq (hugo.IsProduction) true) }}
+  {{/* 调整图片尺寸 */}}
+  {{ $resized := $image.Resize (printf "%dx%d" $width $height) }}
 
-  <picture>
-    {{ if $processable }}
-      {{/* 生成 webp 格式的图片集 */}}
-      {{ range $size := $sizes }}
-        {{ $resized := ($image.Resize (printf "%sx%s" $size "auto")).RelPermalink }}
-        <source
-          type="image/webp"
-          media="(max-width: {{ $size }}px)"
-          srcset="{{ ($image.Resize (printf "%sx%s webp" $size "auto")).RelPermalink }}" />
-      {{ end }}
-      <source type="image/webp" srcset="{{ ($image.Resize (printf "%sx%s webp" $width $height)).RelPermalink }}" />
-    {{ end }}
+  <img
+    class="{{ .Class }}"
+    src="{{ $resized.RelPermalink }}"
+    width="{{ $resized.Width }}"
+    height="{{ $resized.Height }}"
+    alt="{{ $alt }}"
+    loading="lazy" />
 
-    {{/* 生成原始格式 (jpg/png) 的图片集 */}}
-    {{ range $size := $sizes }}
-      {{ $resized := ($image.Resize (printf "%sx%s" $size "auto")).RelPermalink }}
-      <source
-        media="(max-width: {{ $size }}px)"
-        srcset="{{ $resized }}" />
-    {{ end }}
-
-    {{/* 默认的 img 标签，用于旧版浏览器或作为 fallback */}}
-    <img
-      class="{{ $class }}"
-      src="{{ ($image.Resize (printf "%sx%s" $width $height)).RelPermalink }}"
-      width="{{ $width }}"
-      height="{{ $height }}"
-      alt="{{ $alt }}"
-      loading="{{ $loading }}" />
-  </picture>
+{{ else if $src }}
+  {{/* 如果提供了src但找不到图片，就报错 */}}
+  {{ errorf "Image partial: Image '%s' not found for page '%s'. Make sure it exists in /assets/%s or alongside the content file." $src $page.File.Path $src }}
 {{ end }}
