@@ -3,7 +3,7 @@
 banner:
   title: "Discover the Rich World of Chinese Tea"
   content: "From the fresh notes of Green Tea to the deep complexity of Puerh, Category of Tea is your ultimate guide to the fascinating origins, categories, and culture behind every leaf."
-  image: "/images/banner-tea.png" # Suggestion: Find a beautiful, wide photo of a tea plantation or a tea ceremony.
+  image: "/images/banner-tea.jpg" # Suggestion: Find a beautiful, wide photo of a tea plantation or a tea ceremony.
   button:
     enable: true
     label: "Explore Tea Categories"
