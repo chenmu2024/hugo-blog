@@ -2,7 +2,7 @@
 title: "White Tea: The Delicate Emperor of Chinese Teas - A Complete Guide to Origins, Types, and Benefits"
 meta_title: "White Tea Guide: Origins, Types & Health Benefits | Chinese Tea Expert"
 description: "Discover the fascinating world of Chinese white tea - from its ancient origins in Fujian Province to modern health benefits. Learn about Silver Needle, White Peony, and brewing techniques."
-date: 2025-09-27T10:00:00Z
+date: 2025-09-26T10:00:00Z
 image: "/images/white-tea.png"
 width: 1200
 height: 830
