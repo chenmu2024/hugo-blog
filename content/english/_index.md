@@ -12,7 +12,7 @@ banner:
 # Features Section (The sections below the banner)
 features:
   - title: "The Six Pillars of Chinese Tea"
-    image: "/images/six-categories-of-tea.png" # A graphic showing six different tea colors.
+    image: "/images/six-categories-of-tea.jpg" # A graphic showing six different tea colors.
     content: "Chinese tea is traditionally classified into six main categories based on its processing method. Each category offers a unique spectrum of flavors, aromas, and stories."
     bulletpoints:
       - "Green Tea (绿茶): Unoxidized and fresh, capturing the essence of spring."
@@ -27,7 +27,7 @@ features:
       link: "/categories" # Links to the page listing all categories.
 
   - title: "Journey Through Iconic Teas"
-    image: "/images/iconic-teas.png" # An elegant image collage of different tea leaves or cups.
+    image: "/images/iconic-teas.jpg" # An elegant image collage of different tea leaves or cups.
     content: "Within each category lie legendary teas, each with its own unique history, terroir, and flavor profile. Let's delve into some of the most celebrated examples."
     bulletpoints:
       - "**Longjing (Dragon Well):** The king of Green Teas, famous for its nutty aroma and smooth, mellow taste."
@@ -40,7 +40,7 @@ features:
       link: "/blog" # Links to the main blog page to discover more articles.
 
   - title: "Why Trust Category of Tea?"
-    image: "/images/about-us-tea-journey.png" # A welcoming image.
+    image: "/images/about-us-tea-journey.jpg" # A welcoming image.
     content: "Our mission is simple: to be the most reliable, accessible, and inspiring resource for Chinese tea enthusiasts. We are dedicated to providing clear, accurate, and passion-driven content."
     bulletpoints:
       - "Unbiased reviews and in-depth guides."
