@@ -36,7 +36,7 @@ Next comes the rolling and shaping process, where leaves are gently bruised to b
 
 The oxidation is then carefully monitored and controlled through a combination of rolling, resting, and environmental manipulation. Master tea processors can judge the progress by smell, appearance, and even touch, knowing exactly when to apply heat to stop the oxidation process. This "kill-green" step, typically done through pan-firing or steaming, preserves the desired oxidation level and prepares the leaves for final shaping and drying.
 
-Different oolong varieties require different processing approaches. Lighter oolongs like [Tieguanyin](https://www.teatulia.com/tea-varieties/what-is-tieguanyin-tea.htm) undergo minimal oxidation (20-30%), while darker varieties like Da Hong Pao can reach 70-80% oxidation. This flexibility in processing allows for an incredible range of flavor profiles within the oolong category.
+Different oolong varieties require different processing approaches. Lighter oolongs like [Tieguanyin](https://www.teatulia.com) undergo minimal oxidation (20-30%), while darker varieties like Da Hong Pao can reach 70-80% oxidation. This flexibility in processing allows for an incredible range of flavor profiles within the oolong category.
 
 ## Regional Varieties and Their Unique Characters
 
