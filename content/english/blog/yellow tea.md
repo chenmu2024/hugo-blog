@@ -46,11 +46,11 @@ Yellow tea can be broadly categorized into three main types based on the size an
 
 Yellow bud tea represents the highest grade of yellow tea, made exclusively from tender young buds picked during early spring. The most famous variety in this category is **Junshan Yinzhen** (君山银针) from Junshan Island in Hunan Province's Dongting Lake.
 
-Junshan Yinzhen, literally translated as "Junshan Silver Needles," is considered the crown jewel of yellow teas. According to the [Hunan Tea Industry Association](http://www.hntea.org/), this tea is harvested only during a brief window in early spring when the buds are perfectly formed but haven't yet opened. The finished tea consists entirely of uniform, silvery-downy buds that create a spectacular visual display when brewed.
+Junshan Yinzhen, literally translated as "Junshan Silver Needles," is considered the crown jewel of yellow teas. According to the Hunan Tea Industry Association, this tea is harvested only during a brief window in early spring when the buds are perfectly formed but haven't yet opened. The finished tea consists entirely of uniform, silvery-downy buds that create a spectacular visual display when brewed.
 
 Another renowned yellow bud tea is **Mengding Huangya** (蒙顶黄芽) from Mount Meng in Sichuan Province. Historical records indicate that this tea has been produced for over 2,000 years and was once exclusively reserved for imperial consumption. The [Sichuan Agricultural University](https://www.sicau.edu.cn/) has documented that Mengding Huangya's unique flavor profile is influenced by the mountain's misty climate and mineral-rich soil.
 
-**Huoshan Huangya** (霍山黄芽) from Anhui Province represents another prestigious yellow bud tea. Grown in the Dabie Mountains, this tea is known for its exceptionally smooth taste and subtle floral aroma. The [Anhui Agricultural Academy](http://www.aaas.org.cn/) notes that Huoshan Huangya's processing requires particular attention to timing, as the mountain's changing weather patterns can significantly affect the final product quality.
+**Huoshan Huangya** (霍山黄芽) from Anhui Province represents another prestigious yellow bud tea. Grown in the Dabie Mountains, this tea is known for its exceptionally smooth taste and subtle floral aroma. The Anhui Agricultural Academy notes that Huoshan Huangya's processing requires particular attention to timing, as the mountain's changing weather patterns can significantly affect the final product quality.
 
 ### Yellow Small Tea (Huang Xiao Cha)
 
@@ -100,7 +100,7 @@ Glassware allows observers to appreciate yellow tea's beautiful visual transform
 
 Yellow tea holds a unique position in Chinese culture, representing refinement, patience, and the pursuit of perfection. The intensive labor required for its production and the skill needed to brew it properly have made yellow tea a symbol of dedication to craft and appreciation for life's subtler pleasures.
 
-In contemporary China, yellow tea serves as a bridge between ancient traditions and modern lifestyle. Young Chinese professionals increasingly turn to yellow tea as a sophisticated alternative to coffee, appreciating its gentle energy boost and calming properties. The [China Tea Marketing Association](http://www.ctma.com.cn/) reports growing domestic demand for premium yellow teas, particularly among educated urban consumers.
+In contemporary China, yellow tea serves as a bridge between ancient traditions and modern lifestyle. Young Chinese professionals increasingly turn to yellow tea as a sophisticated alternative to coffee, appreciating its gentle energy boost and calming properties. The China Tea Marketing Association reports growing domestic demand for premium yellow teas, particularly among educated urban consumers.
 
 International interest in yellow tea has grown significantly in recent years, driven partly by increased global awareness of tea culture and the growing appreciation for artisanal beverages. Specialty tea shops in major Western cities now regularly stock authentic Chinese yellow teas, introducing this rare treasure to new audiences.
 
