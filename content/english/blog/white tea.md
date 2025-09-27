@@ -20,7 +20,7 @@ Unlike its more robust cousins like black or [green tea](https://categoryoftea.o
 
 The story of white tea begins in the Song Dynasty (960-1279 AD), though some tea historians trace its roots even further back to the Tang Dynasty (618-907 AD). The birthplace of white tea is firmly established in Fujian Province, specifically in the counties of Fuding and Zhenghe, where the unique terroir and climate create the perfect conditions for cultivating tea plants that produce the signature white, fuzzy buds.
 
-According to historical records, white tea was originally created as a tribute tea for the imperial court. The [Chinese Tea Research Institute](https://www.ctma.com.cn/) documents show that during the Northern Song Dynasty, Emperor Huizong was particularly fond of white tea, praising its delicate flavor and ethereal appearance in his famous work "Da Guan Cha Lun" (The Great Treatise on Tea).
+According to historical records, white tea was originally created as a tribute tea for the imperial court. The Chinese Tea Research Institute documents show that during the Northern Song Dynasty, Emperor Huizong was particularly fond of white tea, praising its delicate flavor and ethereal appearance in his famous work "Da Guan Cha Lun" (The Great Treatise on Tea).
 
 The name "white tea" doesn't refer to the color of the brewed liquor, which is typically pale golden or silver, but rather to the fine white hairs (called "pekoe" or "bai hao" in Chinese) that cover the young tea buds. These silvery-white hairs are a natural protection mechanism for the tender new growth and are considered a mark of the highest quality in white tea production.
 
@@ -72,7 +72,7 @@ Shou Mei, literally "Longevity Eyebrow," consists of later-picked leaves that ar
 
 Fresh Shou Mei has a more pronounced flavor than other white teas, with earthy undertones and a slightly more assertive character. However, it's the aging potential of Shou Mei that makes it truly special. When properly stored for several years, this tea undergoes a remarkable transformation, developing deep, complex flavors reminiscent of aged wine or whiskey, with notes of dried fruits, wood, and spices.
 
-The [Fujian Tea Association](https://www.fjtea.org/) recognizes aged Shou Mei as one of the most valuable collectible teas, with some vintages commanding prices comparable to premium Silver Needle. Many tea connoisseurs specifically seek out aged Shou Mei for its unique flavor profile and potential health benefits that develop through the natural aging process.
+The Fujian Tea Association recognizes aged Shou Mei as one of the most valuable collectible teas, with some vintages commanding prices comparable to premium Silver Needle. Many tea connoisseurs specifically seek out aged Shou Mei for its unique flavor profile and potential health benefits that develop through the natural aging process.
 
 ### Gong Mei (Tribute Eyebrow) - The Hidden Gem
 
@@ -86,7 +86,7 @@ Modern scientific research has validated many of the traditional health claims a
 
 ### Antioxidant Powerhouse
 
-White tea contains exceptionally high levels of polyphenols, particularly catechins and flavonoids, which act as powerful antioxidants in the human body. Research published in the [Journal of Food Science](https://onlinelibrary.wiley.com/journal/17503841) shows that white tea contains up to three times more antioxidants than green tea, making it one of the most potent natural sources of these beneficial compounds.
+White tea contains exceptionally high levels of polyphenols, particularly catechins and flavonoids, which act as powerful antioxidants in the human body. Research published in the [Journal of Food Science](https://onlinelibrary.wiley.com) shows that white tea contains up to three times more antioxidants than green tea, making it one of the most potent natural sources of these beneficial compounds.
 
 The primary antioxidants in white tea include:
 - Epigallocatechin gallate (EGCG): Known for its anti-inflammatory and metabolism-boosting properties
@@ -171,7 +171,7 @@ While white tea originated in China and remains primarily produced there, its po
 
 ### International Production Attempts
 
-Several countries have attempted to cultivate and produce white tea using Chinese techniques and tea plant varieties. [Darjeeling tea gardens](https://www.darjeelingtea.com/) in India have experimented with white tea production, creating unique fusion styles that combine Indian terroir with Chinese processing methods. Similarly, tea gardens in Sri Lanka, Kenya, and even the United States have produced white tea variants, though none have achieved the same level of recognition as authentic Chinese white tea.
+Several countries have attempted to cultivate and produce white tea using Chinese techniques and tea plant varieties. Darjeeling tea gardens in India have experimented with white tea production, creating unique fusion styles that combine Indian terroir with Chinese processing methods. Similarly, tea gardens in Sri Lanka, Kenya, and even the United States have produced white tea variants, though none have achieved the same level of recognition as authentic Chinese white tea.
 
 ### Market Growth and Appreciation
 
