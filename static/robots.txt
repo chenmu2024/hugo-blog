@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.categoryoftea.org/sitemap.xml
+Sitemap: https://categoryoftea.org/sitemap.xml
