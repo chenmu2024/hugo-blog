@@ -4,7 +4,7 @@ meta_title: "White Tea Guide: Origins, Types & Health Benefits | Chinese Tea Exp
 description: "Discover the fascinating world of Chinese white tea - from its ancient origins in Fujian Province to modern health benefits. Learn about Silver Needle, White Peony, and brewing techniques."
 date: 2025-09-27T10:00:00Z
 image: "/images/white-tea.png"
-width: 1300
+width: 1200
 height: 830
 categories: ["White Tea", "Chinese Tea", "Tea Culture"]
 author: "Tea Master Chen"
