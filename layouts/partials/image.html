@@ -1,6 +1,7 @@
 {{/*
   这是 image.html 的最终修复版本。
   它会主动从页面的 Front Matter (.Params) 读取 width 和 height。
+  新增了对 'Lazy' 参数的控制，以解决 LCP 问题。
 */}}
 {{ $src := .Src }}
 {{ $page := .Context }}
@@ -45,7 +46,11 @@
     width="{{ $resized.Width }}"
     height="{{ $resized.Height }}"
     alt="{{ $alt }}"
-    loading="lazy" />
+    {{- /* 
+      LCP 优化：只有当 Lazy 参数不等于 "false" 时，才添加 loading="lazy"。
+      这允许我们对 LCP 图片禁用延迟加载。
+    */ -}}
+    {{ if ne .Lazy "false" }}loading="lazy"{{ end }} />
 
 {{ else if $src }}
   {{/* 如果提供了src但找不到图片，就报错 */}}
