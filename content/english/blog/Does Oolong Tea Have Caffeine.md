@@ -3,7 +3,7 @@ title: "Does Oolong Tea Have Caffeine? Everything You Need to Know"
 meta_title: "Does Oolong Tea Have Caffeine? Complete Guide 2025"
 description: "Wondering if oolong tea contains caffeine? Learn exactly how much caffeine is in oolong tea, how it compares to coffee, and what affects its caffeine levels."
 date: 2025-09-29T05:00:00Z
-image: "/images/oolong-tea.jpg"
+image: "/images/oolong-tea-have.jpg"
 width: 956
 height: 536
 categories: ["Oolong Tea", "Tea Guide"]
