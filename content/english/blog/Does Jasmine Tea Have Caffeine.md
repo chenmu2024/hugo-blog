@@ -2,7 +2,7 @@
 title: "Does Jasmine Tea Have Caffeine? Everything You Actually Need to Know"
 meta_title: "Does Jasmine Tea Have Caffeine? Complete Guide 2025"
 description: "Wondering if jasmine tea has caffeine? Get the real answer about caffeine content in jasmine tea, plus practical tips for choosing and brewing the perfect cup."
-date: 2025-9-30T03:00:00Z
+date: 2025-09-29T08:00:00Z
 image: "/images/jasmine-tea.jpg"
 width: 1483
 height: 822
