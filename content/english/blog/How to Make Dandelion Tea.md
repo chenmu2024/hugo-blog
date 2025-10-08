@@ -2,7 +2,7 @@
 title: "How to Make Dandelion Tea: Your Complete Guide from Garden to Cup"
 meta_title: "How to Make Dandelion Tea - Step by Step Guide"
 description: "Learn how to make dandelion tea with our detailed guide. Discover preparation methods for roots, leaves, and flowers, plus health benefits and tips."
-date: 2025-10-08T05:00:00Z
+date: 2025-10-07T05:00:00Z
 image: "/images/dandelion-tea.jpg"
 width: 1485
 height: 832
